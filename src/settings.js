@@ -1,0 +1,1 @@
+_CCSettings={"platform":"web-desktop","groupList":["default","a1"],"collisionMatrix":[[false,false],[false,true]],"rawAssets":{},"assetTypes":[],"launchScene":"db://assets/New Scene.fire","scenes":[{"url":"db://assets/New Scene.fire","uuid":"3fd4be3e-21bf-4edd-a6ff-5b35b5c42ca8"}],"packedAssets":{},"orientation":""};
